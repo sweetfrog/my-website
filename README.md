@@ -2,6 +2,4 @@
 
 this is a really awesome update
 
-editting readme file via update-readme branch
-
-updated readme file locally, and then remotely again
+updated readme file via master branch before rebase
